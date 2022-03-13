@@ -11,7 +11,7 @@ plugin= {"pretty","html:target/Htmlreport",
 		"json:target/JSONREPORTS/Jsonreport.json",
         "junit:target/xmlreport.xml"}
 		)
-//test
+//test india
 public class runner {
 
 }
